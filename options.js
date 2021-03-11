@@ -3,7 +3,7 @@ const fs = require('fs-extra') // Modulo de operações em disco
 
 module.exports = options = (headless, start) => {
     const options = {
-        sessionId: 'Iris',
+        sessionId: 'akame',
         headless: headless,
         qrTimeout: 0,
         authTimeout: 0,
