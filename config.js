@@ -1,5 +1,5 @@
 /*
-* Construído por Lucas R. - KillovSky para Legião Z e distribuido mundialmente em certo ponto.
+* Construído por Lucas R. - KillovSky para amesterdam e distribuido mundialmente em certo ponto.
 * Reprodução, edição e outros estão autorizados MAS SEM REMOVER OS CRÉDITOS do criador deste BOT, resultando na quebra da licença do mesmo.
 * E desculpe pelos comandos que estão em "inglês" como o "groupinfo", amo o inglês e acho bonito dessa forma, então os programo com nome em inglês mesmo.
 */
