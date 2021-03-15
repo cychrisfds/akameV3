@@ -34,43 +34,6 @@
 ```
 prefix = /
 ```
-
-# Características
-
-| Criador de adesivos | Recurso |
-| : -----------: | : --------------------------------:|
-| ✅ | Enviar foto com legenda|
-| ✅ | Responder uma foto|
-| ✅ | Responder a um vídeo ou GIF|
-| ✅ | Enviar vídeo ou GIF com legenda|
-| ✅ | Responder um adesivo (adesivo na imagem)|
-
-| Outro | Recurso |
-| : ------------: | : ---------------------------------------------:|
-| ✅ | Obtenha um meme aleatório|
-| ✅ | Texto para fala|
-| ✅ | Recurso de escrita|
-| ✅ | O que é esse anime|
-| ✅ | Url2Img (Web Screeenshot)|
-| ✅ | Simsimi|
-
-| Grupo | Recurso |
-| : -----------: | : --------------------------------:|
-| ✅ | Membro Tagall / Mentionall|
-| ✅ | Tagall2 / membro Mentionall|
-| ✅ | Tagall3 / membro Mentionall|
-| ✅ | Kick Member Group|
-| ✅ | Adicionar grupo de membros|
-| ✅ | Obter Grupo de Administradores de Lista|
-| ✅ | Obter link de convite de grupo|
-| ✅ | Bot sai do grupo|
-
-| Owner Bot | Recurso|
-| : -----------: | : --------------------------------:|
-| ✅ | Definir prefixo|
-| ✅ | Broadcast|
-| ✅ | Limpar todos os bate-papo|
-
 ## um abraço especial para
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
