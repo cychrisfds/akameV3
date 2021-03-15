@@ -9,7 +9,7 @@ const canvas = require('discord-canvas')
 
 // Cria um cliente de inicialização da BOT
 const start = (kill = new Client()) => {
-    console.log(color('\n[DEV]', 'red'), color('- Lucas R. - KillovSky <-> +55 81 99620-7906 <-> https://chat.whatsapp.com/LEHYF2AmnOk7MSH1r03xBB'))
+    console.log(color('\n[DEV]', 'red'), color('- chris ne pae. - cychris <-> +55 81 99620-7906 <-> https://chat.whatsapp.com/LEHYF2AmnOk7MSH1r03xBB'))
 	console.log(color('[ÍRIS]', 'red'), color('Minha inicialização foi concluída, você pode usar agora...\n'))
 	
 		// Forçar recarregamento caso obtenha erros
